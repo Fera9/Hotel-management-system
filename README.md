@@ -8,13 +8,13 @@ It includes user authentication, role-based functionality (Admin and Customer), 
 
  OOP Concepts Used
 
-- ✅ Inheritance (`Admin`, `Customer` ← `User`)
+- ✅ Inheritance (`OneBedRoom`, `TwoBedRoom` ← `Room`)
 - ✅ Polymorphism (virtual `showInfo()` function)
 - ✅ Encapsulation (private fields, accessors)
-- ✅ Operator Overloading (`==`, `>`, `<<`, `>>` if needed)
+- ✅ Operator Overloading (`==`, `>`, `<<`, `>>`)
 - ✅ File handling (`ifstream`, `ofstream`)
 - ✅ Static members (if applicable)
-- ❌ No `friend` functions (avoided due to outdated style)
+
 
 ---
 
