@@ -1,7 +1,7 @@
  Hotel-management-system
 Console app project for OOP2 course, Hotel Management system
 
-A console-based hotel booking system developed in C++ using core Object-Oriented Programming (OOP) principles and file handling. The system supports two types of users — Customers and Admins — with distinct roles and access levels. Data persistence is implemented through file I/O streams (ifstream, ofstream) without the use of databases or vectors.
+A console-based hotel booking system developed in C++ using core Object-Oriented Programming (OOP) principles and file handling. The system supports two types of users:  Customers and Admins -- with distinct roles and access levels. Data persistence is implemented through file I/O streams (ifstream, ofstream) without the use of databases or vectors.
 
 
 ---
